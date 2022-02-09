@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "dPL8G3AgsQUdmxq+saICpmgVi0PTTiML6XoYDmI2ik33rBqdnALIE2BDILoTB9csnP0z2LZzJ4lmh16ikIzrJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fabio-AmorimSilva\\Documents\\ASP.NET-React\\QandA\\Backend\\QandA\\QandA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fabio-AmorimSilva\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Fabio-AmorimSilva\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Fabio-AmorimSilva\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Fabio-AmorimSilva\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Fabio-AmorimSilva\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Fabio-AmorimSilva\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
